@@ -1,0 +1,8 @@
+{
+  "exchange": {
+    "palitanx": "exchange.palitanx",
+    "gravix": "exchange.gravix",
+    "gaviex": "exchange.gaviex"
+  },
+  "Palitanx": "Palitanx"
+}
